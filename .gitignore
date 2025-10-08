@@ -1,0 +1,7 @@
+out/
+.bsp/
+.bloop/
+.metals/
+.vscode/
+.idea/
+.scala-build/
