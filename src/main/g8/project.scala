@@ -1,3 +1,4 @@
-//> using scala 3.7.4
+//> using jvm 25
+//> using scala 3.8.1
 //> using options -Wunused:imports -Wsafe-init -Yexplicit-nulls -language:strictEquality
-////> using dep com.lihaoyi::upickle:4.3.2
+//> using toolkit 0.9.0
